@@ -24,4 +24,4 @@ sed -i "s/sleep(.*)/sleep(10)/" install
 
 4.) Verify it is running.
 
-service codedeploy-agent status subhash
+service codedeploy-agent status 
